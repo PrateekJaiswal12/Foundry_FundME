@@ -1,3 +1,6 @@
+## Summary of FundMe
+It is crowd funding smart contract where people can donate and the owner of the contract can withdraw and we can have an account for each funder who donated for future refernces.
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
